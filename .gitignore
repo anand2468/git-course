@@ -3,3 +3,4 @@ secrets.txt
 folder/
 
 *.py
+.DS_store
